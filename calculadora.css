@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(226, 206, 180);
+}
+
+header{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+.display{
+    text-align: center;
+ 
+}
+.conteiner{
+    background-color: rgb(255, 255, 255);
+    border-radius: 30px;
+    width: 150px;
+    margin: auto;
+    padding: 15px;
+}
+footer{
+    text-align: center;
+}
+button {
+  
+  border-radius: 12px; 
+}
